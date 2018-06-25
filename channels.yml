@@ -8,7 +8,11 @@ channels:
   - name: Codemotion
     link: https://www.youtube.com/user/CodemotionWorld
     channelId: UCdS8EbQyTDYyJYgtftnTyhg
-
+    
+  - name: freeCodeCamp
+    link: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+    channelId: UC8butISFwT-Wl7EV0hUK0BQ
+  
   - name: Erlang Solutions
     link: https://www.youtube.com/user/ErlangSolutions
     channelId: UCKrD_GYN3iDpG_uMmADPzJQ
